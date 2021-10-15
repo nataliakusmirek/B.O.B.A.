@@ -17,4 +17,4 @@ for i in range(len(cogs)):
 
 keep_alive()
 
-client.run("ODk0MDIwMTExMjE0NzI3MTk4.YVj7HA.H_1-sEot7Cp9FHnDaCi6cXl_fIw")
+client.run("token")
