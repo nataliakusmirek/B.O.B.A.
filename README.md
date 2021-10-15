@@ -10,6 +10,4 @@ A few of the commands include:
 -resume
 -join
 -disconnect
--credits
-
-and a few custom commands to play certain songs!
+-credits [and a few custom commands to play certain songs!]
