@@ -1,7 +1,7 @@
 # B.O.B.A.
-After many discord music bots being shut down this past month, I decided to make a **discord music bot** for my friends and I to use in voice channels.
+After many discord music bots being shut down this past month, I decided to make a **discord music bot with Python** for my friends and I to use in voice channels.
 
-This bot is hosted through Replit and UptimeRobot at the moment, meaning it can be used 24/7.
+This bot is hosted through Replit and UptimeRobot at the moment, meaning it can be used 24/7. It is also registered as a bot in the Discord Developer Portal.
 
 A few of the commands include:
 -play
